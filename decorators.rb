@@ -7,7 +7,7 @@ class BaseDecorator < Nameable
   end
 
   def correct_name
-    @nameable.operation
+    @nameable.correct_name
   end
 end
 
