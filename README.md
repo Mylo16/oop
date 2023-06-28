@@ -39,8 +39,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Implement classes and objects in Ruby]**
 - **[Implement inheritance, abstraction, encapsulation and polymorphism]**
 
@@ -139,7 +137,6 @@ If you like this project kindly give me a star or a thumb up.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 I would like to thank the entire Microverse staff and colleagues for making this bootcamp interesting.
 
