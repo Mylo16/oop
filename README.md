@@ -39,7 +39,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[Implement classes and objects in Ruby]**
 - **[Implement inheritance, abstraction, encapsulation and polymorphism]**
 
@@ -131,7 +130,6 @@ Feel free to check the [issues page](https://github.com/Mylo16/oop/issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project kindly give me a star or a thumb up.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -139,7 +137,6 @@ If you like this project kindly give me a star or a thumb up.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 I would like to thank the entire Microverse staff and colleagues for making this bootcamp interesting.
 
