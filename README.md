@@ -6,20 +6,16 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -41,12 +37,6 @@
 
 - **[Implement classes and objects in Ruby]**
 - **[Implement inheritance, abstraction, encapsulation and polymorphism]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,28 +71,14 @@ Install this project with:
 ### Run tests
 
 ```sh
-  rubocop
+  rspec
 ```
-
-### Deployment
-
-N/A
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-👤 **Author**
+## 👥 Author <a name="authors"></a>
 
 - GitHub: [@githubhandle](https://github.com/Mylo16)
-- Twitter: [@twitterhandle](https://twitter.com/eric)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/EricAntwi384)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ericopokuantwi)
 
@@ -112,7 +88,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[We will add more features later]**
+- [ ] **[I willl build the frontend version of this app]**
+- [ ] **[I willl build the mobile version of this app]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
