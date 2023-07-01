@@ -2,11 +2,13 @@ require './person'
 require './classroom'
 
 class Student < Person
-  attr_accessor :classroom
+  attr_accessor :classroom, :type, :name
 
-  def initialize(age, classroom, name = 'Unknown', parent_permission: true)
-    super(age, parent_permission, name)
+  def initialize(age, name, parent_permission, type = 'Student', classroom: nil)
+    super(age, name)
     @classroom = classroom
+    @parent_permission = parent_permission
+    @type = type
   end
 
   def play_hooky
