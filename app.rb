@@ -1,8 +1,8 @@
-require './book'
-require './rental'
-require './person'
-require './student'
-require './teacher'
+require './Book/book'
+require '.Person/rental'
+require '.Person/person'
+require '.Person/student'
+require '.Person/teacher'
 
 class App
   def initialize(main)
